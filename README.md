@@ -1,7 +1,10 @@
-# Late-Night-At-Bon-s
+# Late Night At Bon's
+
+## About
+
 A retro-style video game based on The Walten Files
 
-INSTALLATION
+## Installation Process
 
 1. Download the zip folder
 2. Extract all the contents
